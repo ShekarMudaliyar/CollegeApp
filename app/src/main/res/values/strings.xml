@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MLDCC</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string-array name="section">
+        <item>FY</item>
+        <item>SY</item>
+        <item>TY</item>
+    </string-array>
+    <string name="prinmsg">Principal`s Message</string>
+    <string name="activities">Activities</string>
+    <string name="courses">Courses</string>
+    <string name="staff">Staff</string>
+    <string name="convo">Convocation</string>
+    <string name="aboutus">About Us</string>
+    <string name="aboutapp">About App</string>
+    <string name="contact">Contact Us</string>
+    <string name="setting">Settings</string>
+    <string name="feedback">Feedback</string>
+    <string name="notices">Notices</string>
+    <string name="resullt">Result</string>
+    <string name="events">Events</string>
+    <string name="gallery">Gallery</string>
+    <string name="library">Library</string>
+    <string name="notifi">Notifications</string>
+</resources>

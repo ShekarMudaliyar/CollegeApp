@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "869151555038",
+    "firebase_url": "https://mldccclone.firebaseio.com",
+    "project_id": "mldccclone",
+    "storage_bucket": "mldccclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869151555038:android:49f3c43d6e963923",
+        "android_client_info": {
+          "package_name": "com.mudaliyar.shekar.mldcc_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869151555038-n05iv9m3634o8ttpkoihoopm6h9adadn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mudaliyar.shekar.mldcc_clone",
+            "certificate_hash": "36f170abc570454fd0b6a571895f283e6c1fbd80"
+          }
+        },
+        {
+          "client_id": "869151555038-tdeaghr5uthudg18arhf5blsvm4udc75.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "869151555038-tdeaghr5uthudg18arhf5blsvm4udc75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_UgOVL6AeCEbQUZBjYug33uj30wHqhD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869151555038-tdeaghr5uthudg18arhf5blsvm4udc75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
